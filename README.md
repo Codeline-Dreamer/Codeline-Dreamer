@@ -14,8 +14,10 @@ My professional path has taken me from leadership roles and training and develop
 💻 **Front-End Enthusiast:** I specialize in full-stack development with a strong focus on front-end technologies. Creating user-friendly, responsive, and aesthetically pleasing interfaces is not just my job, it's my craft.
 
 🔍 **Problem Solver at Heart:** My background in training and development has equipped me with a unique perspective on problem-solving. I believe in creating solutions that are not only efficient but also intuitive and accessible.
-- 📚 **Continuous Learner:** The ever-evolving nature of technology drives me to constantly learn and adapt. I'm always experimenting with new technologies and methodologies to stay at the cutting edge of front-end development.
-- 🤝 **Collaborative and Communicative:** Having been in leadership roles, I value teamwork and clear communication. I thrive in environments where collaboration leads to innovative solutions.
+
+📚 **Continuous Learner:** The ever-evolving nature of technology drives me to constantly learn and adapt. I'm always experimenting with new technologies and methodologies to stay at the cutting edge of front-end development.
+
+🤝 **Collaborative and Communicative:** Having been in leadership roles, I value teamwork and clear communication. I thrive in environments where collaboration leads to innovative solutions.
 
 **Technologies I Love:**
 - Front-End: JavaScript, React, Angular, CSS, HTML
